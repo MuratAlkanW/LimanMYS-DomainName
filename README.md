@@ -6,6 +6,7 @@ For more information:
 - https://liman.havelsan.com.tr/
 - https://www.liman.dev/
 - https://rehber.liman.dev/
+- https://market.liman.dev/
 - https://github.com/limanmys
 
 # Screenshots
