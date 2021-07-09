@@ -10,19 +10,29 @@ For more information:
 
 # Screenshots
 Dashboard Tab </br>
-![scr01](/screenshots/dashboardTab.jpg)
+<kbd>
+ ![scr01](/screenshots/dashboardTab.jpg)
+</kbd>
 
 Web Applications Tab </br>
-![scr02](/screenshots/webAppsTab.jpg)
+<kbd>
+  ![scr02](/screenshots/webAppsTab.jpg)
+</kbd>
 
 Database - PostgreSQL Tab </br>
-![scr03](/screenshots/postgresqlTab.jpg)
+<kbd>
+  ![scr03](/screenshots/postgresqlTab.jpg)
+</kbd>
 
 Database - MySQL Tab </br>
-![scr04](/screenshots/mysqlTab.jpg)
+<kbd>
+  ![scr04](/screenshots/mysqlTab.jpg)
+</kbd>
 
 PHP Modules Tab </br>
-![scr05](/screenshots/phpModulesTab.jpg)
+ <kbd>
+  ![scr05](/screenshots/phpModulesTab.jpg)
+</kbd>
 
 
 # Default Web Page
